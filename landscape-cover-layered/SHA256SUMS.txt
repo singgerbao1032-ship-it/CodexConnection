@@ -1,0 +1,4 @@
+f4af8fecdd33b329ba288e6aeaff43f52a4352ef3de2e330f62c7b81e041d4e1  poster-every-character.pptx
+1632d460d17818073164bffc522e46f18ebf1d0d0f45c14d203da5945ffed3ac  poster-hd.png
+9eedc52bdf21ffeea8bf73e46d7dd90c71d3c1f742ccb8262678ac2805cf7d11  background-hd.png
+a41eb376d9578247a6f88dde162b0b8d35206736cb3f7e7f4bb355a9b95a1d44  every-character-assets.zip
