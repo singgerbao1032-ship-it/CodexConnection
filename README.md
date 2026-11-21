@@ -1,4 +1,8 @@
-## 最新：原水彩配色、统一字大、主题居中的横版首页
+## 最新：两行横向书法、水彩横版首页
+
+[下载最新封面PNG与16:9单页PPT](pastel-horizontal-brush)
+
+## 原水彩配色、统一字大、主题居中的横版首页
 
 [下载封面PNG与16:9单页PPT](pastel-centered-cover)
 
