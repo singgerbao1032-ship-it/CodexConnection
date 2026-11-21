@@ -1,4 +1,8 @@
-## 最新：两行横向书法、水彩横版首页
+## 最新：错落手写、整组居中的横版首页
+
+[下载新版PNG与16:9单页PPT](pastel-horizontal-brush-v2)
+
+## 两行横向书法、水彩横版首页（初版）
 
 [下载最新封面PNG与16:9单页PPT](pastel-horizontal-brush)
 
