@@ -1,4 +1,8 @@
-## 最新：全景大字融合 · 横版首页新稿
+## 最新：行书融景 · 横版首页
+
+[下载4K图片与整图PPT首页](panoramic-xingshu-cover)
+
+## 全景大字融合 · 横版首页新稿
 
 [下载4K图片与整图PPT首页](panoramic-type-cover)
 
