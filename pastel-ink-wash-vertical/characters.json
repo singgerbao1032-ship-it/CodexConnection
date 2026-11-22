@@ -1,0 +1,216 @@
+{
+  "source_size": [
+    1672,
+    941
+  ],
+  "characters": [
+    {
+      "id": 1,
+      "char": "化",
+      "section": "theme",
+      "box": [
+        1366,
+        178,
+        1529,
+        287
+      ],
+      "file": "chars/001-theme.png",
+      "hd_file": "characters/001-theme.png"
+    },
+    {
+      "id": 2,
+      "char": "梦",
+      "section": "theme",
+      "box": [
+        1389,
+        288,
+        1524,
+        429
+      ],
+      "file": "chars/002-theme.png",
+      "hd_file": "characters/002-theme.png"
+    },
+    {
+      "id": 3,
+      "char": "为",
+      "section": "theme",
+      "box": [
+        1384,
+        417,
+        1514,
+        534
+      ],
+      "file": "chars/003-theme.png",
+      "hd_file": "characters/003-theme.png"
+    },
+    {
+      "id": 4,
+      "char": "马",
+      "section": "theme",
+      "box": [
+        1389,
+        530,
+        1528,
+        661
+      ],
+      "file": "chars/004-theme.png",
+      "hd_file": "characters/004-theme.png"
+    },
+    {
+      "id": 5,
+      "char": "哲",
+      "section": "theme",
+      "box": [
+        1209,
+        172,
+        1332,
+        294
+      ],
+      "file": "chars/005-theme.png",
+      "hd_file": "characters/005-theme.png"
+    },
+    {
+      "id": 6,
+      "char": "韵",
+      "section": "theme",
+      "box": [
+        1207,
+        300,
+        1339,
+        418
+      ],
+      "file": "chars/006-theme.png",
+      "hd_file": "characters/006-theme.png"
+    },
+    {
+      "id": 7,
+      "char": "生",
+      "section": "theme",
+      "box": [
+        1227,
+        418,
+        1336,
+        528
+      ],
+      "file": "chars/007-theme.png",
+      "hd_file": "characters/007-theme.png"
+    },
+    {
+      "id": 8,
+      "char": "花",
+      "section": "theme",
+      "box": [
+        1170,
+        526,
+        1358,
+        664
+      ],
+      "file": "chars/008-theme.png",
+      "hd_file": "characters/008-theme.png"
+    },
+    {
+      "id": 9,
+      "char": "四",
+      "section": "event",
+      "box": [
+        1198,
+        713,
+        1235,
+        746
+      ],
+      "file": "chars/009-event.png",
+      "hd_file": "characters/009-event.png"
+    },
+    {
+      "id": 10,
+      "char": "院",
+      "section": "event",
+      "box": [
+        1240,
+        711,
+        1275,
+        750
+      ],
+      "file": "chars/010-event.png",
+      "hd_file": "characters/010-event.png"
+    },
+    {
+      "id": 11,
+      "char": "联",
+      "section": "event",
+      "box": [
+        1277,
+        711,
+        1317,
+        748
+      ],
+      "file": "chars/011-event.png",
+      "hd_file": "characters/011-event.png"
+    },
+    {
+      "id": 12,
+      "char": "合",
+      "section": "event",
+      "box": [
+        1320,
+        711,
+        1357,
+        748
+      ],
+      "file": "chars/012-event.png",
+      "hd_file": "characters/012-event.png"
+    },
+    {
+      "id": 13,
+      "char": "迎",
+      "section": "event",
+      "box": [
+        1361,
+        712,
+        1399,
+        749
+      ],
+      "file": "chars/013-event.png",
+      "hd_file": "characters/013-event.png"
+    },
+    {
+      "id": 14,
+      "char": "新",
+      "section": "event",
+      "box": [
+        1401,
+        711,
+        1439,
+        748
+      ],
+      "file": "chars/014-event.png",
+      "hd_file": "characters/014-event.png"
+    },
+    {
+      "id": 15,
+      "char": "晚",
+      "section": "event",
+      "box": [
+        1444,
+        711,
+        1479,
+        748
+      ],
+      "file": "chars/015-event.png",
+      "hd_file": "characters/015-event.png"
+    },
+    {
+      "id": 16,
+      "char": "会",
+      "section": "event",
+      "box": [
+        1472,
+        711,
+        1522,
+        748
+      ],
+      "file": "chars/016-event.png",
+      "hd_file": "characters/016-event.png"
+    }
+  ]
+}
