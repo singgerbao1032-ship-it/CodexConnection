@@ -1,4 +1,8 @@
-## 最新：舒展错落大字 · 小画窗横版
+## 最新：淡彩泼墨渐变 · 竖排主题字横版
+
+[下载4K海报、三页分层PPT与透明素材](pastel-ink-wash-vertical)
+
+## 舒展错落大字 · 小画窗横版
 
 [下载4K海报、三页分层PPT与透明素材](pastel-cloud-window-expansive)
 
