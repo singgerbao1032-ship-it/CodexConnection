@@ -1,0 +1,25 @@
+{
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "slides": 3,
+  "characters": 16,
+  "illustration_elements": 5,
+  "other": 1,
+  "slide_shapes": [
+    1,
+    23,
+    1
+  ],
+  "art_composite_mean_error_255": 0.021076656717632165,
+  "verified": true,
+  "files_MiB": {
+    "poster-layered-4k.pptx": 19.74,
+    "poster-hd.png": 6.14,
+    "说明.txt": 0.0,
+    "background-hd.png": 5.13,
+    "transparent-layers.zip": 3.81,
+    "layers.json": 0.0
+  }
+}
