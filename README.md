@@ -1,4 +1,8 @@
-## 最新：行书融景 · 横版首页
+## 最新：行书融景 · 活动名称融色版
+
+[下载4K图片与整图PPT首页](panoramic-xingshu-softtitle)
+
+## 行书融景 · 横版首页
 
 [下载4K图片与整图PPT首页](panoramic-xingshu-cover)
 
