@@ -1,4 +1,8 @@
-## 最新：画窗缩小版 · 4K逐字分层PPT
+## 最新：厚笔枯墨手写主题字版
+
+[下载海报、三页分层PPT与透明素材](pastel-cloud-window-nanzhi)
+
+## 画窗缩小版 · 4K逐字分层PPT
 
 [下载三页PPT、高清海报、无字背景与透明素材](pastel-cloud-window-layered)
 
