@@ -1,0 +1,291 @@
+{
+  "source_size": [
+    1672,
+    941
+  ],
+  "characters": [
+    {
+      "id": 1,
+      "char": "化",
+      "section": "theme",
+      "box": [
+        305,
+        46,
+        509,
+        181
+      ],
+      "file": "chars/001-theme.png",
+      "hd_file": "characters/001-theme.png"
+    },
+    {
+      "id": 2,
+      "char": "梦",
+      "section": "theme",
+      "box": [
+        376,
+        158,
+        555,
+        326
+      ],
+      "file": "chars/002-theme.png",
+      "hd_file": "characters/002-theme.png"
+    },
+    {
+      "id": 3,
+      "char": "为",
+      "section": "theme",
+      "box": [
+        281,
+        287,
+        431,
+        417
+      ],
+      "file": "chars/003-theme.png",
+      "hd_file": "characters/003-theme.png"
+    },
+    {
+      "id": 4,
+      "char": "马",
+      "section": "theme",
+      "box": [
+        303,
+        392,
+        503,
+        567
+      ],
+      "file": "chars/004-theme.png",
+      "hd_file": "characters/004-theme.png"
+    },
+    {
+      "id": 5,
+      "char": "哲",
+      "section": "theme",
+      "box": [
+        525,
+        251,
+        707,
+        402
+      ],
+      "file": "chars/005-theme.png",
+      "hd_file": "characters/005-theme.png"
+    },
+    {
+      "id": 6,
+      "char": "韵",
+      "section": "theme",
+      "box": [
+        551,
+        391,
+        740,
+        560
+      ],
+      "file": "chars/006-theme.png",
+      "hd_file": "characters/006-theme.png"
+    },
+    {
+      "id": 7,
+      "char": "生",
+      "section": "theme",
+      "box": [
+        475,
+        530,
+        637,
+        672
+      ],
+      "file": "chars/007-theme.png",
+      "hd_file": "characters/007-theme.png"
+    },
+    {
+      "id": 8,
+      "char": "花",
+      "section": "theme",
+      "box": [
+        473,
+        642,
+        732,
+        845
+      ],
+      "file": "chars/008-theme.png",
+      "hd_file": "characters/008-theme.png"
+    },
+    {
+      "id": 9,
+      "char": "四",
+      "section": "event",
+      "box": [
+        170,
+        544,
+        204,
+        579
+      ],
+      "file": "chars/009-event.png",
+      "hd_file": "characters/009-event.png"
+    },
+    {
+      "id": 10,
+      "char": "院",
+      "section": "event",
+      "box": [
+        169,
+        579,
+        204,
+        616
+      ],
+      "file": "chars/010-event.png",
+      "hd_file": "characters/010-event.png"
+    },
+    {
+      "id": 11,
+      "char": "联",
+      "section": "event",
+      "box": [
+        168,
+        614,
+        204,
+        651
+      ],
+      "file": "chars/011-event.png",
+      "hd_file": "characters/011-event.png"
+    },
+    {
+      "id": 12,
+      "char": "合",
+      "section": "event",
+      "box": [
+        167,
+        651,
+        204,
+        689
+      ],
+      "file": "chars/012-event.png",
+      "hd_file": "characters/012-event.png"
+    },
+    {
+      "id": 13,
+      "char": "迎",
+      "section": "event",
+      "box": [
+        168,
+        686,
+        204,
+        724
+      ],
+      "file": "chars/013-event.png",
+      "hd_file": "characters/013-event.png"
+    },
+    {
+      "id": 14,
+      "char": "新",
+      "section": "event",
+      "box": [
+        167,
+        724,
+        204,
+        761
+      ],
+      "file": "chars/014-event.png",
+      "hd_file": "characters/014-event.png"
+    },
+    {
+      "id": 15,
+      "char": "晚",
+      "section": "event",
+      "box": [
+        169,
+        759,
+        205,
+        796
+      ],
+      "file": "chars/015-event.png",
+      "hd_file": "characters/015-event.png"
+    },
+    {
+      "id": 16,
+      "char": "会",
+      "section": "event",
+      "box": [
+        168,
+        793,
+        204,
+        832
+      ],
+      "file": "chars/016-event.png",
+      "hd_file": "characters/016-event.png"
+    },
+    {
+      "id": 17,
+      "char": "竖线",
+      "section": "rule",
+      "box": [
+        144,
+        543,
+        157,
+        830
+      ],
+      "file": "chars/017-rule.png",
+      "hd_file": "characters/017-rule.png"
+    }
+  ],
+  "elements": [
+    {
+      "id": "right-window",
+      "name": "右侧马与花海画窗整体",
+      "box": [
+        773,
+        57,
+        1587,
+        837
+      ],
+      "file": "elements/right-window.png",
+      "hd_file": "elements/right-window.png"
+    },
+    {
+      "id": "upper-left-window",
+      "name": "左上角风景画窗",
+      "box": [
+        0,
+        0,
+        337,
+        354
+      ],
+      "file": "elements/upper-left-window.png",
+      "hd_file": "elements/upper-left-window.png"
+    },
+    {
+      "id": "butterfly",
+      "name": "蝴蝶",
+      "box": [
+        694,
+        120,
+        827,
+        244
+      ],
+      "file": "elements/butterfly.png",
+      "hd_file": "elements/butterfly.png"
+    },
+    {
+      "id": "petal-1",
+      "name": "左侧花瓣",
+      "box": [
+        114,
+        350,
+        203,
+        430
+      ],
+      "file": "elements/petal-1.png",
+      "hd_file": "elements/petal-1.png"
+    },
+    {
+      "id": "petal-2",
+      "name": "下方花瓣",
+      "box": [
+        321,
+        684,
+        446,
+        802
+      ],
+      "file": "elements/petal-2.png",
+      "hd_file": "elements/petal-2.png"
+    }
+  ]
+}
