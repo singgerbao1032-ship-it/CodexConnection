@@ -1,8 +1,14 @@
-## 最新：行书融景 · 活动名称融色版
+## 最新有效版本：方正粗体原版 · 顶部纯蓝灰色字幕
+
+[下载4K海报与整图PPT首页](panoramic-block-solid-subtitle)
+
+以用户截图指定的粗体版为准，仅更换顶部活动名称的普通字体颜色。
+
+## 已作废：行书融景 · 活动名称融色版
 
 [下载4K图片与整图PPT首页](panoramic-xingshu-softtitle)
 
-## 行书融景 · 横版首页
+## 已作废：行书融景 · 横版首页
 
 [下载4K图片与整图PPT首页](panoramic-xingshu-cover)
 

@@ -1,0 +1,13 @@
+{
+  "base": "panoramic-type-cover/original.png",
+  "edited": "top subtitle solid blue-gray only",
+  "main_title_and_scene_pixel_identical": true,
+  "unchanged_fraction": 0.993300926938155,
+  "changed_pixels": 10540,
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "PPT_MB": 7.5,
+  "verified": true
+}
