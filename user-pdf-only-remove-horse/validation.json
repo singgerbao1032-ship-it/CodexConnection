@@ -1,0 +1,20 @@
+{
+  "base": "latest uploaded PDF",
+  "edit": "horse only",
+  "original_objects_retained_in_PDF": true,
+  "unchanged_outside_local_repair_verified": true,
+  "footer_pixel_identical": true,
+  "repair_box_native": [
+    93,
+    410,
+    638,
+    827
+  ],
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "PPT_MB": 6.7,
+  "PDF_MB": 10.3,
+  "verified": true
+}
