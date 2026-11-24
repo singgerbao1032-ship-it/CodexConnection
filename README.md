@@ -1,4 +1,10 @@
-## 最新：用户PDF排版 · 去马草书版
+## 新字体试版：用户排版 · 武侠狂草
+
+[下载4K图片、整图PPT与PDF](user-layout-wuxia-no-horse)
+
+上一版继续保留，可供对比。
+
+## 已保留：用户PDF排版 · 去马草书版
 
 [下载4K图片、整图PPT与PDF](user-layout-cursive-no-horse)
 
