@@ -1,3 +1,7 @@
+## 最新：用户选定草书版 · 主题八字略缩小
+
+[下载4K图片、整图PPT与PDF](user-layout-cursive-smaller)
+
 ## 新字体试版：用户排版 · 武侠狂草
 
 [下载4K图片、整图PPT与PDF](user-layout-wuxia-no-horse)
