@@ -1,3 +1,7 @@
+## 最新交付：两版文字可移动PPT
+
+[草书版与原PDF字体去马版，各一份独立分层PPT](movable-text-two-versions)
+
 ## 最新：本次上传PDF · 仅移除马
 
 [下载4K图片、整图PPT与修改后PDF](user-pdf-only-remove-horse)

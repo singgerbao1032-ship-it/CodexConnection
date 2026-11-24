@@ -1,0 +1,28 @@
+[
+  {
+    "version": "a-cursive",
+    "slide_count": 1,
+    "object_count": 11,
+    "movable_transparent_text_objects": 10,
+    "theme_characters_separate": 8,
+    "other_text_groups": 2,
+    "background_text_free": true,
+    "move_and_save_roundtrip_verified": true,
+    "text_core_RGB_preserved": true,
+    "PPT_MiB": 7.42,
+    "verified": true
+  },
+  {
+    "version": "b-pdf",
+    "slide_count": 1,
+    "object_count": 11,
+    "movable_transparent_text_objects": 10,
+    "theme_characters_separate": 8,
+    "other_text_groups": 2,
+    "background_text_free": true,
+    "move_and_save_roundtrip_verified": true,
+    "text_core_RGB_preserved": true,
+    "PPT_MiB": 7.12,
+    "verified": true
+  }
+]

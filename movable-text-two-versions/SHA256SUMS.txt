@@ -1,0 +1,4 @@
+acc9764a7410dced75a6e9d6a69fc63d5bf7474a98035705d8bd626bd39506c5  README.md
+c932b6ee926e4c58b3da2d1ff5d8899359ac1560f100a19132ece4694977ff5b  cursive-smaller-movable.pptx
+b0828d4016486220dc88db54d29a9c66706c624cdb70981ae522b8357bead1d1  original-pdf-no-horse-movable.pptx
+cda3b605a6d2d8991ddb4ff59175b2461d82a88efe36f9f5429424eb89cb7124  validation.json
