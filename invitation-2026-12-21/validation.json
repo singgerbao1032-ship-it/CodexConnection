@@ -1,0 +1,48 @@
+{
+  "versions": [
+    {
+      "side": "front",
+      "date": "2026-12-21",
+      "time": "19:00",
+      "source": "invitation/clean-edges/front.png",
+      "local_edit_box": [
+        370,
+        992,
+        458,
+        1066
+      ],
+      "unchanged_outside_date_verified": true,
+      "changed_native_pixels": 3591,
+      "size": [
+        3072,
+        4608
+      ]
+    },
+    {
+      "side": "back",
+      "date": "2026-12-21",
+      "time": "19:00",
+      "source": "invitation/clean-edges/back.png",
+      "local_edit_box": [
+        533,
+        1051,
+        580,
+        1094
+      ],
+      "unchanged_outside_date_verified": true,
+      "changed_native_pixels": 1042,
+      "size": [
+        3072,
+        4608
+      ]
+    }
+  ],
+  "PDF_pages": 2,
+  "verified": true,
+  "files_MiB": {
+    "back-hd.png": 10.19,
+    "invitation-front-back-hd.pdf": 20.6,
+    "front-hd.png": 10.42
+  },
+  "PDF_lossless_predictor_verified": true
+}
